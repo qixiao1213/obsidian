@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e5bd672be43059bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5f1f08f723d62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2bbb9d5e45e75e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b2b1ce71fce0694",
+    "type": "split",
+    "children": [
+      {
+        "id": "765df6d407ad7fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77bf55b353b8e6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66e0baff0ba359b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e14577e92d90cbaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c70666d9450bcf74",
+    "type": "split",
+    "children": [
+      {
+        "id": "a648a8fa7ed850ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f008d051806b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17645f1711b257e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b662d982563e9eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fc01dc95c375e32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3df146d8593f4162",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2b649bafd0dd501",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1e7e2056c6d35c1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "d2bbb9d5e45e75e3",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-09 11.37.32.excalidraw.md",
+    "工作WORKPLACE/厦航.md",
+    "Pasted Image 20240909114716_833.png",
+    "2024-W37.md",
+    "工作WORKPLACE/转正相关/八月份学习计划完成情况总结报告.md",
+    "工作WORKPLACE/转正相关/闫俊豪成长计划.md",
+    "工作WORKPLACE/工作画布.canvas",
+    "工作WORKPLACE/TODO.md",
+    "工作WORKPLACE/办公楼.png",
+    "知识图谱/工作图谱.md",
+    "工作WORKPLACE/拓扑.md",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）/深信服产品以外设备/办公楼1.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）/深信服产品以外设备/办公楼1 1.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）/深信服产品以外设备/备份软件.png",
+    "知识图谱/IPsecVPN工作原理.md",
+    "~$深信服拓扑图标-灰色版（通用）.pptx",
+    "知识图谱/深信服图标包.md",
+    "知识图谱/联系人.md",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备/网站云防护服务云盾.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备/深信服太衍大数据.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备/数据库管理平台DMP.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备/容器云.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备/太衍Thaiyan®大数据智能平台.png",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服设备",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）/深信服产品以外设备",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-蓝色版（适用于白底）",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）/深信服设备",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）/深信服产品以外设备",
+    "知识图谱/深信服拓扑图标PNG/拓扑图标PNG-灰色版（通用）",
+    "知识图谱/深信服拓扑图标PNG",
+    "~$深信服拓扑图标-蓝色版（适用于白底）.pptx",
+    "深信服拓扑图标-灰色版（通用）.pptx",
+    "Excalidraw/拓扑.md",
+    "Excalidraw/IPsecVPN工作原理 2024-09-09 11.20.01.excalidraw.md",
+    "未命名.md",
+    "2024-09-07.md",
+    "Excalidraw/Drawing 2024-09-03 14.52.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-03 14.52.00.excalidraw.md",
+    "未命名看板.md",
+    "Excalidraw/Drawing 2024-09-03 14.36.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-03 14.36.15.excalidraw.md",
+    "未命名 1.canvas",
+    "2024-09-03.md",
+    "未命名.canvas",
+    "八月.md",
+    "未命名/未命名看板.md"
+  ]
+}
